@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Responsive Web</string>
+	<key>ordering</key>
+	<array>
+		<string>79153349-E205-48C4-8B02-355DB1DC8CA7</string>
+		<string>D33EC444-7B53-46D3-832C-BA637B7DCB90</string>
+		<string>9C89AA71-F17C-4EC4-8939-E7ECEEB990F3</string>
+		<string>A4468CAA-4849-4726-9EAA-8EB4A4122394</string>
+		<string>F3954BEC-438F-4B1A-8AC1-EEB1F75216D7</string>
+		<string>322B3BDF-FDE3-477B-9C06-4301669578ED</string>
+	</array>
+	<key>uuid</key>
+	<string>60AE98A0-AA09-4307-B522-B9C50C9F0BAD</string>
+</dict>
+</plist>

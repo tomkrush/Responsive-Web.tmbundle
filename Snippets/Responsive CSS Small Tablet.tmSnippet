@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@media only screen and (max-width: 719px) { /* Small Tablet */
+
+}</string>
+	<key>name</key>
+	<string>Responsive CSS Small Tablet</string>
+	<key>tabTrigger</key>
+	<string>@rst</string>
+	<key>uuid</key>
+	<string>A4468CAA-4849-4726-9EAA-8EB4A4122394</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@media only screen and (max-width: 1240px) { /* Desktop */
+
+}</string>
+	<key>name</key>
+	<string>Responsive CSS Desktop</string>
+	<key>tabTrigger</key>
+	<string>@rd</string>
+	<key>uuid</key>
+	<string>D33EC444-7B53-46D3-832C-BA637B7DCB90</string>
+</dict>
+</plist>

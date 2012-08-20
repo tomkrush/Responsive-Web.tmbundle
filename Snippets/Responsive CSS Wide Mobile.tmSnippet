@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@media only screen and (max-width: 599px) { /* Wide Phone */
+
+}</string>
+	<key>name</key>
+	<string>Responsive CSS Wide Mobile</string>
+	<key>tabTrigger</key>
+	<string>@rwm</string>
+	<key>uuid</key>
+	<string>F3954BEC-438F-4B1A-8AC1-EEB1F75216D7</string>
+</dict>
+</plist>
